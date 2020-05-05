@@ -1,0 +1,2 @@
+# Web_Scrapping_Amazon_product_and_sentiment_Analysis
+Extraction of product reviews and sentiment analysis
